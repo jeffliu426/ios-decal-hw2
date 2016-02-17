@@ -15,7 +15,17 @@
 		3AAA63A41BA9263900E3822E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AAA63A21BA9263900E3822E /* LaunchScreen.storyboard */; };
 		3AAA63B31BA9283500E3822E /* KeyboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AAA63B21BA9283500E3822E /* KeyboardViewController.swift */; };
 		3AAA63B71BA9283500E3822E /* CalKeyboard.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 3AAA63B01BA9283500E3822E /* CalKeyboard.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		D23DB0A81C74594F00746CDE /* cartmanDiva.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D23DB0A71C74594F00746CDE /* cartmanDiva.jpg */; };
 		D2631CF91C71D02300CEA7BA /* Keyboard.appex in Resources */ = {isa = PBXBuildFile; fileRef = D2433B691C6FB867006604A4 /* Keyboard.appex */; };
+		D2D5621D1C745B0D00E0FAEA /* screwYouGuys.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D2D5621C1C745B0D00E0FAEA /* screwYouGuys.jpg */; };
+		D2D5621F1C7460FD00E0FAEA /* respect.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D2D5621E1C7460FD00E0FAEA /* respect.jpg */; };
+		D2D562211C74639A00E0FAEA /* sadPanda.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D2D562201C74639A00E0FAEA /* sadPanda.jpg */; };
+		D2D562231C7463F300E0FAEA /* mmmkay.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D2D562221C7463F300E0FAEA /* mmmkay.jpg */; };
+		D2D562251C74643A00E0FAEA /* kenny.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D2D562241C74643A00E0FAEA /* kenny.jpg */; };
+		D2D5622A1C74662800E0FAEA /* jobs.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D2D562261C74662800E0FAEA /* jobs.jpg */; };
+		D2D5622B1C74662800E0FAEA /* satan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D2D562271C74662800E0FAEA /* satan.jpg */; };
+		D2D5622C1C74662800E0FAEA /* kickTheBaby.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D2D562281C74662800E0FAEA /* kickTheBaby.jpg */; };
+		D2D5622D1C74662800E0FAEA /* gone.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D2D562291C74662800E0FAEA /* gone.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +60,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		3A5554491BA930D800AF502F /* Keyboard.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Keyboard.xib; sourceTree = "<group>"; };
+		3A5554491BA930D800AF502F /* Keyboard.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = Keyboard.xib; path = CalKeyboard/Keyboard.xib; sourceTree = SOURCE_ROOT; };
 		3AAA63961BA9263900E3822E /* CustomKeyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomKeyboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AAA63991BA9263900E3822E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3AAA639B1BA9263900E3822E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,10 +69,20 @@
 		3AAA63A31BA9263900E3822E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3AAA63A51BA9263900E3822E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3AAA63B01BA9283500E3822E /* CalKeyboard.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = CalKeyboard.appex; sourceTree = BUILT_PRODUCTS_DIR; };
-		3AAA63B21BA9283500E3822E /* KeyboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardViewController.swift; sourceTree = "<group>"; };
+		3AAA63B21BA9283500E3822E /* KeyboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = KeyboardViewController.swift; path = CalKeyboard/KeyboardViewController.swift; sourceTree = SOURCE_ROOT; };
 		3AAA63B41BA9283500E3822E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D23DB0A71C74594F00746CDE /* cartmanDiva.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cartmanDiva.jpg; sourceTree = "<group>"; };
 		D2433B691C6FB867006604A4 /* Keyboard.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = Keyboard.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		D276EFAC1C72DB8F00782592 /* CustomKeyboard.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = CustomKeyboard.entitlements; sourceTree = "<group>"; };
+		D2D5621C1C745B0D00E0FAEA /* screwYouGuys.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = screwYouGuys.jpg; sourceTree = "<group>"; };
+		D2D5621E1C7460FD00E0FAEA /* respect.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = respect.jpg; sourceTree = "<group>"; };
+		D2D562201C74639A00E0FAEA /* sadPanda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sadPanda.jpg; sourceTree = "<group>"; };
+		D2D562221C7463F300E0FAEA /* mmmkay.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mmmkay.jpg; sourceTree = "<group>"; };
+		D2D562241C74643A00E0FAEA /* kenny.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kenny.jpg; sourceTree = "<group>"; };
+		D2D562261C74662800E0FAEA /* jobs.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jobs.jpg; sourceTree = "<group>"; };
+		D2D562271C74662800E0FAEA /* satan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = satan.jpg; sourceTree = "<group>"; };
+		D2D562281C74662800E0FAEA /* kickTheBaby.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kickTheBaby.jpg; sourceTree = "<group>"; };
+		D2D562291C74662800E0FAEA /* gone.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gone.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +146,16 @@
 		3AAA63B11BA9283500E3822E /* CalKeyboard */ = {
 			isa = PBXGroup;
 			children = (
+				D2D562261C74662800E0FAEA /* jobs.jpg */,
+				D2D562271C74662800E0FAEA /* satan.jpg */,
+				D2D562281C74662800E0FAEA /* kickTheBaby.jpg */,
+				D2D562291C74662800E0FAEA /* gone.jpg */,
+				D2D562241C74643A00E0FAEA /* kenny.jpg */,
+				D2D562221C7463F300E0FAEA /* mmmkay.jpg */,
+				D2D562201C74639A00E0FAEA /* sadPanda.jpg */,
+				D2D5621E1C7460FD00E0FAEA /* respect.jpg */,
+				D2D5621C1C745B0D00E0FAEA /* screwYouGuys.jpg */,
+				D23DB0A71C74594F00746CDE /* cartmanDiva.jpg */,
 				3AAA63B21BA9283500E3822E /* KeyboardViewController.swift */,
 				3A5554491BA930D800AF502F /* Keyboard.xib */,
 				3AAA63B41BA9283500E3822E /* Info.plist */,
@@ -253,6 +283,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D2D5622C1C74662800E0FAEA /* kickTheBaby.jpg in Resources */,
+				D2D5622D1C74662800E0FAEA /* gone.jpg in Resources */,
+				D2D562211C74639A00E0FAEA /* sadPanda.jpg in Resources */,
+				D2D5621F1C7460FD00E0FAEA /* respect.jpg in Resources */,
+				D2D5622B1C74662800E0FAEA /* satan.jpg in Resources */,
+				D2D562251C74643A00E0FAEA /* kenny.jpg in Resources */,
+				D2D562231C7463F300E0FAEA /* mmmkay.jpg in Resources */,
+				D2D5622A1C74662800E0FAEA /* jobs.jpg in Resources */,
+				D23DB0A81C74594F00746CDE /* cartmanDiva.jpg in Resources */,
+				D2D5621D1C745B0D00E0FAEA /* screwYouGuys.jpg in Resources */,
 				3A55544A1BA930D800AF502F /* Keyboard.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
